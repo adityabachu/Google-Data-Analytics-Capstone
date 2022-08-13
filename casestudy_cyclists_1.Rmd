@@ -1,8 +1,7 @@
 ---
 title: "Google Data Analytics Capstone project"
 subtitle: "Cyclistic Case Study"
-author: "Mahmoud Elmaandi"
-date: "27/02/2022"
+author: "Aditya Bachu"
 output: html_document
 editor_options: 
   chunk_output_type: console
